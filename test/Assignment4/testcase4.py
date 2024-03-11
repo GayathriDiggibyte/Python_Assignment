@@ -8,7 +8,7 @@ class MyTestCase(unittest.TestCase):
             5784)
         self.assertEqual(
             "NFGVTLMWEKUICDSRPHAOXJBZQY",
-            "NFGVTLMWEKUICDSRPHAOXJBZQY")  # add assertion here
+            "NFGVTLMWEKUICDSRPHAOXJBZQY")
 
 
 if __name__ == '__main__':

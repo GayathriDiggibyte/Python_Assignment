@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="422752bd-6bdb-46d0-bdf2-6406e07d040c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment5/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Assignment5/testcase1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Assignment5/testcase2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment1/testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment1/testcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment2/testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment2/testcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment3/testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment3/testcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment4/testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment4/testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Assignment4/testcase4.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment4/testcase4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -40,16 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in testcase.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.driver.executor&quot;: &quot;Run&quot;,
-    &quot;Python.util.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in testcase.py.executor": "Run",
+    "Python tests.Python tests in testcase1.py.executor": "Run",
+    "Python tests.Python tests in testcase2.py.executor": "Run",
+    "Python tests.Python tests in testcase3.py.executor": "Run",
+    "Python tests.Python tests in testcase4.py.executor": "Run",
+    "Python.driver.executor": "Run",
+    "Python.util.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
