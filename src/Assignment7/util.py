@@ -1,8 +1,7 @@
-import datetime
+from datetime import datetime
+import calendar
 def calendar_module(s):
-    s1=s.split(" ")
-    year=int(s1[2])
-    month=int(s1[0])
-    day=int(s1[1])
-    date1=datetime.date(year,month,day)
-    return date1.strftime("%A").upper()
+    date=datetime.strptime(s,"%m %d %Y")
+    weekday=date.weekday()
+    day=calendar.day_name[weekday]
+    return day.upper()
