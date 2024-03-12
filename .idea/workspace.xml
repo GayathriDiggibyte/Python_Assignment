@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="422752bd-6bdb-46d0-bdf2-6406e07d040c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment2/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment2/driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment2/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment2/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment4/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment4/driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment4/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment4/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment7/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment7/driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment7/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment7/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment1/testcase1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment1/testcase2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment1/testcase3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment2/testcase1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment2/testcase2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment2/testcase3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment3/testcase1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment3/testcase2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment4/testcase1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment4/testcase2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment4/testcase3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment4/testcase4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment5/testcase1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Assignment5/testcase1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment7/testcase1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment7/testcase2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Assignment7/testcase3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment8/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment8/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment8/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment8/util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

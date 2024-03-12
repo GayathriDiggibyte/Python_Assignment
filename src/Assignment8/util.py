@@ -17,7 +17,7 @@ def find_avg_marks_of_stds():
     for x in marks:
         sum += int(x)
     avg = sum / n
-    print("{:.2f}".format(avg))
+    return "{:.2f}".format(avg)
 
 
 
