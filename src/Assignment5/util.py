@@ -1,4 +1,6 @@
 def print_format_numbers(n):
     width = len(bin(n)[2:])
+    s=[]
     for i in range(1, n + 1):
-        print("{:>{width}} {:>{width}o} {:>{width}X} {:>{width}b}".format(i, i, i, i, width=width))
+        s.append("{:>{width}} {:>{width}o} {:>{width}X} {:>{width}b}".format(i, i, i, i, width=width))
+    return '\n'.join(s)
