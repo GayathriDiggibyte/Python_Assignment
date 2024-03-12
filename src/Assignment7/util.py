@@ -5,4 +5,4 @@ def calendar_module(s):
     month=int(s1[0])
     day=int(s1[1])
     date1=datetime.date(year,month,day)
-    print(date1.strftime("%A").upper())
+    return date1.strftime("%A").upper()

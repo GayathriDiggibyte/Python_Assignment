@@ -8,7 +8,6 @@ def merge_the_tools(string, k):
         s=string[i:p]
         p=p+parts
         string_parts.append(s)
-    print(string_parts)
     res=[]
     for x in string_parts:
         unique_parts = ""
@@ -16,6 +15,5 @@ def merge_the_tools(string, k):
             if y not in unique_parts:
                 unique_parts = unique_parts + y
         res.append(unique_parts)
-
-    for e in res:
-        print(e)
+    s1='\n'.join(res)
+    return s1
