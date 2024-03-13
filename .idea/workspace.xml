@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="422752bd-6bdb-46d0-bdf2-6406e07d040c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment11/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment11/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Assignment11/testcase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,20 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in testcase.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in testcase1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in testcase2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in testcase3.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in testcase4.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.driver.executor&quot;: &quot;Run&quot;,
-    &quot;Python.util.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in testcase.py.executor": "Run",
+    "Python tests.Python tests in testcase1.py.executor": "Run",
+    "Python tests.Python tests in testcase2.py.executor": "Run",
+    "Python tests.Python tests in testcase3.py.executor": "Run",
+    "Python tests.Python tests in testcase4.py.executor": "Run",
+    "Python.driver.executor": "Run",
+    "Python.util.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
