@@ -1,5 +1,10 @@
+from collections import namedtuple
 def find_avg_marks_of_stds():
-    n = int(input())
+    N, student = int(input()), namedtuple('student', input().split())
+    sum1=sum([int(student(*input().split()).MARKS) for _ in range(N)])
+    avg = sum1 / N
+    return "{:.2f}".format(avg)
+''' n = int(input())
     columns = input().split()
     student_data = []
     for i in range(n):
@@ -15,9 +20,8 @@ def find_avg_marks_of_stds():
     marks = dict["MARKS"]
     sum = 0
     for x in marks:
-        sum += int(x)
-    avg = sum / n
-    return "{:.2f}".format(avg)
+        sum += int(x)'''
+
 
 
 
